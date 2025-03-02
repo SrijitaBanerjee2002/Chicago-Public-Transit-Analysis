@@ -1,5 +1,5 @@
 # CS-418-Project
-# Spring 2025
+### Spring 2025
 Project for Intro to Data Science
 
 Designed & Developed by:
