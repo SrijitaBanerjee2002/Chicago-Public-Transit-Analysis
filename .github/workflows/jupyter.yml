@@ -49,7 +49,7 @@ jobs:
           zip -r notebooks_pdfs.zip pdfs
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: notebooks_pdfs
           path: notebooks_pdfs.zip
