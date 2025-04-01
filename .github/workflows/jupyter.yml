@@ -45,10 +45,8 @@ jobs:
         run: |
           mkdir -p pdfs
           for notebook in $(find . -name "*.ipynb"); do
-            base_name=$(basename "$notebook" .ipynb)
-            jupyter nbconvert --to pdf "$notebook" --output "pdfs/${base_name}.pdf"
+            jupyter nbconvert --to pdf "$notebook" --output-dir=pdfs
           done
-
       - name: Zip PDF files
         run: |
           zip -r notebooks_pdfs.zip pdfs
