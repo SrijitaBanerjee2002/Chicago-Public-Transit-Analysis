@@ -1,4 +1,4 @@
-﻿station_id,stationame,month_beginning,avg_weekday_rides,avg_saturday_rides,avg_sunday-holiday_rides,monthtotal
+﻿station_id,station_name,month_beginning,avg_weekday_rides,avg_saturday_rides,avg_sunday-holiday_rides,monthtotal
 40900,Howard,1/1/22,1937.8,1408,1145.8,53463
 41190,Jarvis,1/1/22,575.9,453.8,379.4,16259
 40100,Morse,1/1/22,1525.9,1148,944.8,42508
