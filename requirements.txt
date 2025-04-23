@@ -5,3 +5,5 @@ matplotlib
 scikit-learn
 nbconvert
 nltk
+requests
+seaborn
