@@ -7,3 +7,7 @@ nbconvert
 nltk
 requests
 seaborn
+folium
+geopandas
+shapely
+branca
