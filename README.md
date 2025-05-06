@@ -20,9 +20,6 @@ We combined machine learning, data visualization, and statistical techniques to 
 ---
 
 ## Repository Structure
-## 📁 Repository Structure
-
-## Repository Structure
 
 ```
 Project/
