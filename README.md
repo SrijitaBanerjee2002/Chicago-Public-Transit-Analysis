@@ -20,16 +20,37 @@ We combined machine learning, data visualization, and statistical techniques to 
 ---
 
 ## Repository Structure
-├── data/ # Cleaned and processed datasets
-├── notebooks/
-│ ├── ridership_analysis.ipynb
-│ ├── crime_on_crime_ridership.ipynb
-│ ├── crime_on_crime_ridership_levels.ipynb
-│ ├── reddit_sentiment_analysis.ipynb
-│ └── security_staffing_analysis.ipynb
-├── figures/ # Generated plots and visuals
-├── report/ # Final PDF report submission
-└── README.md
+## 📁 Repository Structure
+
+## Repository Structure
+
+```
+Project/
+├── Collections/                     # Aggregated notebooks & scripts
+│   └── security-economic-data.ipynb
+├── data/                            # All raw and cleaned datasets
+│   ├── CTA_Data/
+│   │   ├── CTA_Expenditures/
+│   │   │   ├── CTA_Expenditures_2019.csv
+│   │   │   ├── CTA_Expenditures_2020.csv
+│   │   │   └── ...                 
+│   │   ├── CTA_Crimes_2010.csv
+│   │   ├── CTA_Crimes_2011.csv
+│   │   └── ...
+│   └── Other_Data/
+│       ├── Employee_Overtime_and_Support.csv
+│       └── ...
+├── crime_analysis.ipynb             # General crime trend exploration
+├── crime_on_crime_ridership_levels.ipynb  # Deep dive into crime spikes vs ridership
+├── cta_data.ipynb                   # Initial CTA data parsing and filtering
+├── rider_sentiment.ipynb           # Reddit sentiment analysis
+├── reddit_comments.csv             # Raw Reddit data
+├── reddit_sentiment.csv            # Labeled sentiment scores
+├── progress_report.ipynb           # Intermediate notebook to document progress
+├── security-staffing-trends.ipynb  # CTA staff and safety budget analysis
+```
+
+
 
 
 ---
@@ -94,6 +115,7 @@ We combined machine learning, data visualization, and statistical techniques to 
    cd CS-418-Project
 
 2. Install dependencies if using requirements.txt
+   ```bash
    pip install -r requirements.txt
 
 
