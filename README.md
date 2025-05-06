@@ -1,7 +1,7 @@
 # Chicago Public Transport Analysis
 
 **CS 418 – Intro to Data Science**  
-**Spring 2025**  
+**Group 2, Spring 2025**  
 **Team Members**: Srijita Banerjee (Project Lead), Burak Simsek, Heer Patel, Amina Marin, Prince Sonani
 
 ---
