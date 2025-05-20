@@ -132,10 +132,11 @@ We thank Professor Sourav Medya (medya@uic.edu) and our Teaching Assistants Homa
 ---
 
 ## 🙋‍♀️😊 About Me
-Hi! I’m Srijita Banerjee, a recent Computer Science graduate from UIC passionate about applying ML to meaningful, real-world problems.  
-This project was an early but important step in my journey into machine learning, and I’m proud of what we built as a team.
+Hi! I’m Srijita Banerjee, a recent Computer Science graduate from UIC passionate about applying my knowledge of Data Science concepts
+to meaningful, real-world problems.  
+This project was an early but important step in my journey into the fundamentals of Data Science, and I’m proud of what we built as a team.
 
-📫 [Reach out to me](mailto:banerjeesrj@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/srijitabanerjee)
+📫 [Reach out to me via email](mailto:banerjeesrj@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/srijitabanerjee)
 
 
 
