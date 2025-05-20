@@ -17,6 +17,14 @@ This project analyzes trends in Chicago's public transportation system using mul
 
 We combined machine learning, data visualization, and statistical techniques to explore these themes and uncover relationships between public perception, actual events, and system usage.
 
+### 😊 My Role
+
+As Project Lead, I contributed to overall coordination and direction of the analysis. My primary focus was on:
+
+- Analyzing 14 years of CTA crime data to detect statistically significant spikes using z-score logic
+- Merging crime and ridership data to identify behavioral trends in weekday commuter patterns following major crime events
+- Creating standalone visualizations and writing the final project report
+
 ---
 
 ## Repository Structure
@@ -120,6 +128,14 @@ Project/
 
 ## Acknowledgements
 We thank Professor Sourav Medya (medya@uic.edu) and our Teaching Assistants Homaira Huda Shomee (hshome2@uic.edu) and  Peyman Baghershahi (pbaghe2@uic.edu) for their invaluable advice and cooperation throughout the project development process. 
+
+---
+
+## 🙋‍♀️😊 About Me
+Hi! I’m Srijita Banerjee, a recent Computer Science graduate from UIC passionate about applying ML to meaningful, real-world problems.  
+This project was an early but important step in my journey into machine learning, and I’m proud of what we built as a team.
+
+📫 [Reach out to me](mailto:banerjeesrj@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/srijitabanerjee)
 
 
 
