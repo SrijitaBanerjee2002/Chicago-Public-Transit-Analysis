@@ -23,8 +23,7 @@ As Project Lead, I contributed to overall coordination and direction of the anal
 
 - Analyzing 14 years of CTA crime data to detect statistically significant spikes using z-score logic
 - Merging crime and ridership data to identify behavioral trends in weekday commuter patterns following major crime events
-- Creating standalone visualizations and writing the final project report
-
+  
 ---
 
 ## Repository Structure
